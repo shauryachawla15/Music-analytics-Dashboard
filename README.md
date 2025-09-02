@@ -9,30 +9,20 @@ The goal is to practice data wrangling, descriptive statistics, and plotting usi
 
 🚀 Features
 
-Load and manage dataset using Pandas DataFrame
-
-Sort albums by genre
-
-Find Top 5 albums by sales
-
-Calculate mean album sales
-
-Group by genre to analyze average sales
-
-Export processed dataset to CSV
+1) Load and manage dataset using Pandas DataFrame
+2) Sort albums by genre
+3) Find Top 5 albums by sales
+4) Calculate mean album sales
+5)Group by genre to analyze average sales
 
 Visualize total sales per genre with Matplotlib
 
 🛠️ Tech Stack
 
 Python 3.x
-
 Pandas – for data manipulation
-
 NumPy – for numerical operations
-
 Matplotlib – for visualizations
-
 Jupyter Notebook – for development and presentation
 
 Example visualization: 
