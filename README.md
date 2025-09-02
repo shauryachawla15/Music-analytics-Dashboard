@@ -35,22 +35,6 @@ Matplotlib – for visualizations
 
 Jupyter Notebook – for development and presentation
 
-📊 Sample Dataset
-Artist	Album	Genre	Sales (M)	Rating
-Tool	Lateralus	Prog Rock	3.0	9.5
-Pink Floyd	The Wall	Rock	30.0	9.7
-Metallica	Black Album	Metal	16.0	8.9
-Michael Jackson	Thriller	Pop	66.0	9.8
-📈 Output Examples
-
-Top 5 Albums by Sales
-
-Mean Sales Calculation
-
-Average Sales by Genre
-
-Bar Plot of Total Sales per Genre
-
 Example visualization: 
 🎼 Average Sales by Genre:
 Electronic     2.5
